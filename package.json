@@ -1,0 +1,19 @@
+{
+  "name": "esp32-smartwatering",
+  "version": "1.0.0",
+  "description": "Smart Watering System using ESP32",
+  "main": "main.io",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomali2k12/ESP32-SmartWatering.git"
+  },
+  "author": "Thomas Breen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomali2k12/ESP32-SmartWatering/issues"
+  },
+  "homepage": "https://github.com/tomali2k12/ESP32-SmartWatering#readme"
+}
